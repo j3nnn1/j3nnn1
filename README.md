@@ -21,6 +21,6 @@ Hi there!
 ![](tenor.gif)
 
 
-Aditionals links:
+Some projects are here:
 
 https://gitlab.com/j3nnn1
