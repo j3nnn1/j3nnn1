@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## Hi there!
 
-I'm Jenni 😄 (She/her) currently working as developer, here are you'll find some projects that I'm working on 🔭 also some config files from apps that I use, like vim, openbox, cinnamon, symbolic lynks to create a shortcut mostly Linux config files.
+I'm Jenni 😄 (She/her) currently working as developer, here you'll find some projects that I'm working on 🔭 also some config files from apps that I use, like vim, openbox, cinnamon, symbolic lynks to create a shortcut mostly Linux config files.
 
 🌱 I'm currently learning about machine learning and some other stuffs like unity's game engine.
 
